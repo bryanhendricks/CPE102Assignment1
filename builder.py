@@ -7,6 +7,7 @@ import save_load
 import worldmodel
 import worldview
 
+
 IMAGE_LIST_FILE_NAME = 'imagelist'
 WORLD_FILE = 'gaia.sav'
 
